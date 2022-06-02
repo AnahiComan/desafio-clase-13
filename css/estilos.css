@@ -47,4 +47,21 @@ body {
 #nosotros {
   font-size: 1rem;
 }
+
+.accordion-collapse1 {
+  color: #51b651;
+}
+
+.accordion-collapse2 {
+  color: blue;
+}
+
+.accordion-collapse3 {
+  color: red;
+}
+
+#galeria img {
+  height: 350px;
+  width: 275px;
+}
 /*# sourceMappingURL=estilos.css.map */
