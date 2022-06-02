@@ -23,14 +23,14 @@ body {
 }
 
 @media all and (max-width: 768px) {
-  .logo {
+  .marcainstitucional {
     width: 20;
     height: auto;
   }
 }
 
 @media all and (max-width: 960px) {
-  .logo {
+  .marcainstitucional {
     width: 40;
     height: auto;
   }
